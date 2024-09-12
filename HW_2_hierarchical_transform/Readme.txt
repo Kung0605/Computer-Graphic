@@ -1,0 +1,1 @@
+You can press F1 in program to realize how to control the robot.

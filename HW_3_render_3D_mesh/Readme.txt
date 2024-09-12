@@ -1,0 +1,1 @@
+You can simply use mouse to control the view of user.

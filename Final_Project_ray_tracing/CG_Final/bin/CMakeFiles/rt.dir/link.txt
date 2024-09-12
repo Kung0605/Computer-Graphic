@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/rt.dir/external_sources/stb_image/stb_image.cpp.o CMakeFiles/rt.dir/src/GLWrapper.cpp.o CMakeFiles/rt.dir/src/SceneManager.cpp.o CMakeFiles/rt.dir/src/main.cpp.o CMakeFiles/rt.dir/external_sources/glad/src/glad.c.o -o rt/rt  -lGL -lGLU -lglfw -ldl 
